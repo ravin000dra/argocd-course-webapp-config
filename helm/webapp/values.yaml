@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: mabusaa/argocd-course-webapp
+  repository: ravin000dra/argocd-course-webapp
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: 72ff4a2cc6ad2976124993c906476f2d7f9191ba
